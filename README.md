@@ -55,4 +55,11 @@ Key findings from the analysis will be documented here.
 Business recommendations based on the analysis will be documented here.
 
 ## Skills Demonstrated
-Data Cleaning | Data Transformation | Data Modeling | DAX | Power BI | Excel | Data Visualization | Business Analysis
+-  Data Cleaning
+-  Data Transformation
+-   Data Modeling
+-    DAX
+-   Power BI
+-  Excel
+-   Data Visualization
+-    Business Analysis
