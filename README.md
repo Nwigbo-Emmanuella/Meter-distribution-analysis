@@ -9,13 +9,13 @@ Management requires a clear and reliable view of meter distribution and capture 
 
 ## Project Objectives
 - Monitor total meters received
--Track meters issued
--Track captured meters
--Identify pending meters
- -Measure capture rate
- -Analyze performance over time
--Identify data quality issues
-- Provide actionable recommendations
+- Track meters issued
+- Track captured meters
+- Identify pending meters
+ - Measure capture rate
+ - Analyze performance over time
+- Identify data quality issues
+-  Provide actionable recommendations
 
 ## Tools Used
 - Microsoft Excel
