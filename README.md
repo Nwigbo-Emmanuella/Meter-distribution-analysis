@@ -63,3 +63,6 @@ Business recommendations based on the analysis will be documented here.
 -  Excel
 -   Data Visualization
 -    Business Analysis
+
+## Dashboard Preview
+![Meter Distribution Operations Dashboard](distribution-operations.png)
