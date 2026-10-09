@@ -1,9 +1,11 @@
 # Meter Distribution & Capture Analysis
 
 ## Project Overview
-This project analyzes meter distribution, issuance and capture performance using data analytics and business intelligence tools.
-The project was developed to provide visibility into operational performance, identify outstanding meters and support data-driven decision-making.
-
+- This project presents an operational analysis of meter distribution, installation progress, and contractor performance using Microsoft Excel, Power Query, and Power BI.
+- The dashboard transforms operational data into actionable insights by tracking installation rates, pending installations, monthly trends, and contractor-level performance.
+- Project focus: Data cleaning, data transformation, data modeling, DAX, KPI development, interactive dashboards and business recommendations.
+- Tools: Microsoft Excel, Power Query, Power BI, DAX
+- Key Result: An installation rate of 75.1%, with 695 of 926 recorded meters installed and 231 pending installation.
 ## Business Problem
 Management requires a clear and reliable view of meter distribution and capture activities in order to monitor progress, identify outstanding records and improve operational efficiency.
 
@@ -20,11 +22,11 @@ Management requires a clear and reliable view of meter distribution and capture 
 ## Tools Used
 - Microsoft Excel
 - Power Query
- -Power BI
+ - Power BI
 - DAX
 - Data Cleaning
 - Data Visualization
- -Business Analysis
+ - Business Analysis
 
 ## Data Preparation
 The data was cleaned and transformed before analysis.
