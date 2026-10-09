@@ -49,10 +49,20 @@ The Power BI dashboard provides an interactive view of:
  - Operational performance
 
 ## Key Insights
-Key findings from the analysis will be documented here.
+Analysis of the meter distribution and installation dataset revealed the following:
+- 926 meters recorded: The project dataset contains 926 meters tracked for distribution and installation.
+- 75.1% installation rate: A total of 695 meters have been installed, Representing 75.1% of the recorded meters.
+- 231 installations pending: Approximately 24.9% of the recorded meters remain pending installation, Highlighting the need for continued operational monitoring.
+- Installation Progress visibility: Contractor level and monthly trend visualizations support the monitoring of installation activities and identification of outstanding work.
+  These findings provide an operational overview of installation progress and help prioritize follow-up activities.
 
 ## Recommendations
-Business recommendations based on the analysis will be documented here.
+Based on the analysis, The following actions are recommended: 
+- Prioritize pending installations: Track the 231 outstanding installations and assign clear follow-up responsibilities.
+- Monitor installation progress: Review monthly installation trends to identify delays and take timely corrective action.
+- Review contractor performance: Use contractor level reporting to identify outstanding work and focus operational support where needed.
+- Maintain accurate records: Regularly reconcile recorded meters, completed installations, and pending installation to ensure reliable reporting.
+- Track performance over time: Monitor installation rate and pending workload regularly to measure progress toward competion.
 
 ## Skills Demonstrated
 -  Data Cleaning
